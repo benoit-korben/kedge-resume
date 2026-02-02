@@ -1,0 +1,39 @@
+body {
+	margin: 0;
+	padding: 0;
+	color: #585F7D;
+}
+
+h1, h2, h3 {
+	margin: 0;
+	padding: 0;
+}
+
+.container {
+	padding: 20px;
+}
+
+.text-medium-size {
+	font-size: 20px;
+}
+
+.container a {
+	text-decoration: none;
+	font-size: 18px;
+	font-weight: bold;
+}
+
+.container h2 {
+	margin-top: 20px;
+	margin-bottom: 20px;
+	color: #7ECE95;
+}
+
+#avatar {
+	width: 150px;
+	height: 150px;
+}
+
+.network-logo {
+	width: 35px;
+}
